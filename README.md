@@ -1,4 +1,4 @@
-# Unit3_Assignement2
+# Unit3_Assignment2
 Your instructor will give you a random theme* for the class
 
     Create a new game idea
