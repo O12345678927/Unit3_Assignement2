@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Blueprints/BP_BasicTower.uasset",
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Blueprints/BP_MasterEnemy.uasset",
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Blueprints/BP_MasterTower.uasset",
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/TopDown/Blueprints/BP_BasicTowerProjectile.uasset",
+				"D:/GameDev Assignments/TD_Matthew_Daniel/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/9X/FPY3B2MGKX4JXAJEFQ3S4R.uasset"
 			]
 		}
 	]
