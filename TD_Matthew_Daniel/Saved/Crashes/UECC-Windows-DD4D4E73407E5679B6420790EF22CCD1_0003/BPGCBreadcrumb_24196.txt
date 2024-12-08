@@ -1,0 +1,2 @@
+/Engine/Transient.Default__DEADCLASS_BP_BasicTowerProjectile_C_0
+/Game/TopDown/Blueprints/BP_BasicTower.BP_BasicTower_C
