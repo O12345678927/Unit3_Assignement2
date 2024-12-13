@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GameDev Assignments/uimenu/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GameDev Assignments/uimenu/Content/UI/UIMainMenu.uasset",
+				"D:/GameDev Assignments/uimenu/Content/UI/MainMenuMap.umap",
+				"D:/GameDev Assignments/uimenu/Content/UI/OptionMenuMap.umap",
+				"D:/GameDev Assignments/uimenu/Content/UI/UIOptionsMenu.uasset",
+				"D:/GameDev Assignments/uimenu/Content/UI/desktop-wallpaper-deathblade-on-xianxia-wuxia-martial-arts.uasset",
+				"D:/GameDev Assignments/uimenu/Content/UI/GM_Menu.uasset"
+			]
+		}
+	]
+}
